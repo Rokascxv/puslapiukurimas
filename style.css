@@ -148,6 +148,18 @@ h2{
    font-family: 'Playfair Display', serif;
     text-align: center;
 }
+.dwnld:link,.dwlnd:visited{
+  background-color:#FFC34D;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;  
+    
+}
+.dwnld:hover, .dwnld:active {
+  background-color: #E9D77A;
+}
 *,
 *:before,
 *:after {
